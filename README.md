@@ -156,9 +156,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/AlNomanCSE)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/abdullahalnomancse)
-- Email: your.email@example.com
+- GitHub: [AlNomanCSE](https://github.com/AlNomanCSE)
+- LinkedIn: [abdullahalnomancse](https://linkedin.com/in/abdullahalnomancse)
+- Email: abdullahalnomancse@gmail.com
 
 ## 🙏 Acknowledgments
 
