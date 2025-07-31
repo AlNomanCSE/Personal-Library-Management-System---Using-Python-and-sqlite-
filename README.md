@@ -27,7 +27,8 @@ A command-line application built with Python 3 and SQLite to manage your persona
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/personal-library-system.git
+   git clone git@github.com:AlNomanCSE/Personal-Library-Management-System---Using-Python-and-sqlite-.git
+
    cd personal-library-system
    ```
 
@@ -155,8 +156,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/AlNomanCSE)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/abdullahalnomancse)
 - Email: your.email@example.com
 
 ## 🙏 Acknowledgments
